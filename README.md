@@ -45,7 +45,7 @@ This command will merge the three files into one PDF called job-application.pdf.
 | `file1.pdf file2.pdf` | List of input PDF files to be merged       |
 | `-o merged.pdf`       | (Optional) Name of the output file          |
 
-> Default output file is `merged.pdf` if `-o` is not specified.
+> Default output file is `merged.pdf` if `-o` is not specified
 
 # 📦 Requirements
 
