@@ -25,7 +25,7 @@ cd pdf-merger
 pip install -r requirements.txt
 ```
 
-# ⚙️ Usage
+# Usage
 Run the tool from the command line:
 ```bash
 python merge.py file1.pdf file2.pdf file3.pdf -o merged.pdf
